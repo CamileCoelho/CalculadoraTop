@@ -11,7 +11,7 @@ namespace Calculadora.ConsoleApp
     { 
         static void Main(string[] args)
         {
-            List<string> historico = new List<string>();// lista pq aí não precisa especificar o tamanho do vetore
+            List<string> historico = new List<string>();// lista pq aí não precisa especificar o tamanho do vetor
 
             do {
 
